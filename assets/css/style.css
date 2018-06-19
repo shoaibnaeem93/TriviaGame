@@ -1,0 +1,47 @@
+body { 
+    background: url("/Users/shoaibnaeem93/Desktop/Homework/TriviaGame/assets/images/soccer-theme.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+.container {
+    text-align: center;
+    
+}
+
+#mainEvent {
+    padding-bottom: 20px;
+    margin-top: 20px; 
+    background: rgba(204, 204, 204, 0.68);
+    border: none;
+}
+
+form {
+    color: black;
+}
+
+#triviaTitle {
+    opacity: none;
+    text-align: center;
+    font-size: 450%;
+    padding-bottom: 80px;
+    color: black;
+    font-family: Consolas;
+    height: auto;
+    border: none;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+#startGame {
+    width: 20%;
+}
+
+input[type="radio"] {
+    margin: 0 10px 0 10px;
+}
+
+label {
+    font-size: 150%;
+}
