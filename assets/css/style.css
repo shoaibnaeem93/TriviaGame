@@ -38,6 +38,10 @@ form {
     width: 20%;
 }
 
+.center-block {
+    font-size: 15px;
+}
+
 input[type="radio"] {
     margin: 0 10px 0 10px;
 }
