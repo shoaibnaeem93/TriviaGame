@@ -149,3 +149,8 @@ $("#startGame").click(function() {
         triviaResponses();
     }, 1000);
     })
+
+/* psuedocode
+I cannot get the score count to properly increase by 1, the score is random. My psuedocode would basically just be creating an if/else statement
+and a function that when called would check if the correct answer was chosen or not. It would then, based on the answer chosen, increase the incorrect answer score or the correct
+answer score by 1 respectivley. */
