@@ -3,7 +3,7 @@ $( document ).ready(function() {
 });
 
 //initial variables//
-var timeLeft= 10; //30 second timer
+var timeLeft= 31; //30 second timer
 var correctAnswers= 0;
 var incorrectAnswers= 0;
 var unansweredQuestions= 0;
